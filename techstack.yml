@@ -1,0 +1,201 @@
+repo_name: akdavis83/KingJamesPureBibleSearch1.1
+report_id: 16cef01df43443f39989347b960c1c1e
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-25T05:09:28+00:00'
+requested_by: dewhisna
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: '1.6'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1/blob/master/programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/bower.json
+  detection_source: programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/bower.json
+  last_updated_by: Donna Whisnant
+  last_updated_on: 2015-08-16 22:07:13.000000000 Z
+- name: jQuery UI
+  description: Curated set of user interface interactions, effects, widgets, and themes
+    built on top of the jQuery JavaScript Library
+  website_url: http://jqueryui.com/
+  version: '1.9'
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1022/jqueryui_avatar_96.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1/blob/master/programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/bower.json
+  detection_source: programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/package.json
+  last_updated_by: Donna Whisnant
+  last_updated_on: 2015-08-16 22:07:13.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Donna Whisnant
+  last_updated_on: 2019-07-28 20:33:30.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1/blob/master/programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/package.json
+  detection_source: programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/package.json
+  last_updated_by: Donna Whisnant
+  last_updated_on: 2015-08-16 22:07:13.000000000 Z
+- name: Qml
+  description: Qt, a leading cross-platform application and UI framework. With Qt,
+    you can develop applications once and deploy to leading desktop, embedded &amp;
+    mobile targets.
+  website_url: https://doc.qt.io/qt-5/qtqml-index.html
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10735/hB7JEnDh_normal.jpg
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: prolog
+  description: é uma linguagem de programação que se enquadra no paradigma de Programação
+    em Lógica Matemática.
+  website_url: http://www.swi-prolog.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10124/no-img-open-source.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1
+  detection_source: Repo Metadata
+- name: jquery-ui
+  description: Shim repository for jQuery UI
+  package_url: http://bower.io/jquery-ui
+  version: '1.9'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/akdavis83/KingJamesPureBibleSearch1.1/blob/master/programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/bower.json
+  detection_source: programs/KJVCanOpener/qwebchannel/html/jquery/jquery-ui/jquery-ui-autocomplete-scroll/0.1.7/bower.json
+  last_updated_by: Donna Whisnant
+  last_updated_on: 2015-08-16 22:07:13.000000000 Z
